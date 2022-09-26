@@ -1,4 +1,4 @@
-package com.example.emailpasspordactivity
+package com.codingstuff.loginandsignup
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.codingstuff.loginandsignup.databinding.ActivitySignUpBinding
 import com.google.firebase.auth.FirebaseAuth
 
-class signUpInActivity : AppCompatActivity() {
+class SignUpActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivitySignUpBinding
     private lateinit var firebaseAuth: FirebaseAuth
