@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728241535482",
+    "project_id": "emailpasspordactivity",
+    "storage_bucket": "emailpasspordactivity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728241535482:android:5f15c26e76dc605fa8cc43",
+        "android_client_info": {
+          "package_name": "com.example.emailpasspordactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728241535482-ejr88b4at35ap4vl39djjp5svq5suin6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoGTOyxDfNdQ4k7Sy1ncqb6k8RlXZLmGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728241535482-ejr88b4at35ap4vl39djjp5svq5suin6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
